@@ -1,19 +1,100 @@
 #EXTM3U
 
-# MALAYALAM NEWS
+#EXTINF:-1,=========== HD CHANNELS ===========
+http://0.0.0.0
 
-#EXTINF:-1,MediaOne News
-https://edge6.vedge.infomaniak.com/livecast/ik:mediaone/manifest.m3u8
+#EXTINF:-1,Surya TV HD
+http://103.229.254.25:7001/play/a0dq/index.m3u8
 
-#EXTINF:-1,24 News
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01426-sunnetwork-24news-samsungin/playlist.m3u8
+#EXTINF:-1,Mazhavil Manorama HD (1080p)
+https://cdn-7.pishow.tv/live/1129/master.m3u8
 
-# MALAYALAM ENTERTAINMENT
+#EXTINF:-1,Manorama News HD (1080p)
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 
-#EXTINF:-1,Flowers TV
-https://edge6.vedge.infomaniak.com/livecast/ik:flowersedge/manifest.m3u8
+#EXTINF:-1,Asianet (720p)
+http://217.20.112.199/asianet/index.m3u8
 
-# MUSIC
+#EXTINF:-1,Amrita TV (720p)
+https://ddash74r36xqp.cloudfront.net/master.m3u8
 
-#EXTINF:-1,Dharmic TV
-https://d2e1asnsl7br7j.cloudfront.net/out/v1/4d49d5c7e7d34b3eb1c5f7e2f4e1d6fa/index.m3u8
+#EXTINF:-1,Kairali News (720p)
+https://cdn-3.pishow.tv/live/1469/master.m3u8
+
+#EXTINF:-1,Media One (720p)
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+
+#EXTINF:-1,Real News Kerala (1080p)
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+
+#EXTINF:-1,===== ENTERTAINMENT CHANNELS =======
+http://0.0.0.0
+
+#EXTINF:-1,Flowers TV USA (SD)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1,Kairali We (576p)
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+
+#EXTINF:-1,Jeevan TV (576p)
+https://cdn-3.pishow.tv/live/1467/master.m3u8
+
+#EXTINF:-1,DD Malayalam (SD)
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+
+
+#EXTINF:-1,=========== MUSIC CHANNELS ===========
+http://0.0.0.0
+
+#EXTINF:-1,Kappa TV (576p)
+https://cdn-3.pishow.tv/live/1123/master.m3u8
+
+
+#EXTINF:-1,=========== NEWS CHANNELS ===========
+http://0.0.0.0
+
+#EXTINF:-1,Asianet News (360p)
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/3.m3u8
+
+#EXTINF:-1,Mathrubhumi News (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+
+#EXTINF:-1,Reporter TV (576p)
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+
+#EXTINF:-1,News Malayalam 24x7
+https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
+
+#EXTINF:-1,Twenty Four News (396p)
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+
+#EXTINF:-1,Janam TV (576p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+
+#EXTINF:-1,Zee News Malayalam (720p)
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1,BIG TV Malayalam
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+
+
+#EXTINF:-1,=========== INFOTAINMENT CHANNELS ===========
+http://0.0.0.0
+
+#EXTINF:-1,Safari TV (480p)
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+
+#EXTINF:-1,=========== ENGLISH CHANNELS ===========
+http://0.0.0.0
+
+#EXTINF:-1,Fashion TV (SK)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+
+#EXTINF:-1,=========== ADULT CHANNELS ===========
+http://0.0.0.0
+
+#EXTINF:-1,Playboy TV HD [1080p]
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
