@@ -1,10 +1,19 @@
-
 #EXTM3U
 
-# MALAYALAM
+# MALAYALAM NEWS
 
-#EXTINF:-1,Surya TV HD
-https://example.com/surya.m3u8
+#EXTINF:-1,MediaOne News
+https://edge6.vedge.infomaniak.com/livecast/ik:mediaone/manifest.m3u8
 
-#EXTINF:-1,Asianet HD
-https://example.com/asianet.m3u8
+#EXTINF:-1,24 News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01426-sunnetwork-24news-samsungin/playlist.m3u8
+
+# MALAYALAM ENTERTAINMENT
+
+#EXTINF:-1,Flowers TV
+https://edge6.vedge.infomaniak.com/livecast/ik:flowersedge/manifest.m3u8
+
+# MUSIC
+
+#EXTINF:-1,Dharmic TV
+https://d2e1asnsl7br7j.cloudfront.net/out/v1/4d49d5c7e7d34b3eb1c5f7e2f4e1d6fa/index.m3u8
