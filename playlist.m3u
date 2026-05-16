@@ -1,1 +1,10 @@
 
+#EXTM3U
+
+# MALAYALAM
+
+#EXTINF:-1,Surya TV HD
+https://example.com/surya.m3u8
+
+#EXTINF:-1,Asianet HD
+https://example.com/asianet.m3u8
